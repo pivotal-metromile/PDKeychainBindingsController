@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
   LICENSE
   }
   s.source = {
-    :git => 'https://github.com/carlbrown/PDKeychainBindingsController.git',
+    :git => 'git@github.com:pivotal-metromile/PDKeychainBindingsController.git',
     :tag => s.version.to_s
   }
   s.source_files = 'PDKeychainBindingsController/*.{h,m}'
